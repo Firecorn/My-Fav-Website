@@ -98,7 +98,7 @@ h7{
 }
 
 .profile{
-    width: 180px;
+    width: 190px;
     height: 195px;
     margin-bottom:50px;
     margin-top: 160px;
@@ -172,11 +172,17 @@ p{
 }
 
 #contact a{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #contact{
     font-size: 20
+        
+}
+
+.contactnow{
+    
+    font-size: 30px;
 }
 
 html{
